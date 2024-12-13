@@ -95,3 +95,29 @@
  button:hover{
     border: none;
  }
+.container{
+    width: 80%;
+    margin: 50px auto;
+}
+.contact-box{
+    background: #fff;
+    display: flex;
+}
+.contact-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px ;
+    background: navy;
+    color: aliceblue;
+}
+h1{
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+.container p{
+    margin-bottom: 40px;
+    color: aliceblue;
+}
